@@ -156,3 +156,6 @@ span.option:hover {
   font-size: 25px;
   color: rgb(97, 54, 83);
 }
+.signature {
+  text-align: center;
+}
